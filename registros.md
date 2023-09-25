@@ -28,6 +28,11 @@ rasa shell
 
 ```
 
+## Librería para moodle
+
+https://github.com/hexatester/moodlepy
+
+
 
 ## Apuntes anteriores a 24/09/23 son de la versión 01
 
