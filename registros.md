@@ -21,6 +21,12 @@ Para esta versión el proyecto está en repositorio de github:
 https://github.com/JPCet30/tesis
 
 
+## Ejecución
+
+```shell
+rasa shell
+
+```
 
 
 ## Apuntes anteriores a 24/09/23 son de la versión 01
